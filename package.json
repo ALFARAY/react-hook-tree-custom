@@ -1,0 +1,39 @@
+{
+  "name": "react-hook-tree-example",
+  "version": "1.0.0",
+  "description": "React Hook Tree starter project",
+  "keywords": [
+    "react",
+    "hooks",
+    "tree",
+    "nested",
+    "children",
+    "nodes",
+    "parent",
+    "treeview",
+    "data-driven",
+    "customisable",
+    "react-component",
+    "react-hook-tree",
+    "expandable-tree",
+    "expandexpandable",
+    "collapsablecollapse"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-hook-tree": "0.0.1-beta.30",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
